@@ -1,11 +1,3 @@
-## Articles about Player’s Journey
-* [Gamification Design: 4 Phases of a Player’s Journey](https://yukaichou.com/gamification-examples/experience-phases-game/)
-* [4 Experience Phases in Gamification (#1): The Discovery Phase](https://yukaichou.com/gamification-study/4-experience-phases-gamification-1-discovery-phase/)
-* [4 Experience Phases in Gamification (#2): The Onboarding Phase](https://yukaichou.com/gamification-study/4-experience-phases-gamification-2-onboarding-phase/)
-* [4 Experience Phases in Gamification (#3): The Scaffolding Phase](https://yukaichou.com/gamification-study/4-experience-phases-gamification-3-scaffolding-phase/)
-* [4 Experience Phases in Gamification (#4): The Endgame](https://yukaichou.com/gamification-study/4-experience-phases-gamification-4-endgame/)
-
-
 ## Goals of the game
 Why do I want to hold astronomy hackathons for high school students/the general public?
 * Participants can understand:
@@ -14,18 +6,25 @@ Why do I want to hold astronomy hackathons for high school students/the general 
   * how astronomy research, education, outreach and citation science can benefit from open astronomy?
 * Regardless of their background, all participants can make contributions to astronmy research, education, outreach by collaborating during hackathons (general definition of citizen astronomy?)
 
+## Articles about Player’s Journey
+* [Gamification Design: 4 Phases of a Player’s Journey](https://yukaichou.com/gamification-examples/experience-phases-game/)
+* [4 Experience Phases in Gamification (#1): The Discovery Phase](https://yukaichou.com/gamification-study/4-experience-phases-gamification-1-discovery-phase/)
+* [4 Experience Phases in Gamification (#2): The Onboarding Phase](https://yukaichou.com/gamification-study/4-experience-phases-gamification-2-onboarding-phase/)
+* [4 Experience Phases in Gamification (#3): The Scaffolding Phase](https://yukaichou.com/gamification-study/4-experience-phases-gamification-3-scaffolding-phase/)
+* [4 Experience Phases in Gamification (#4): The Endgame](https://yukaichou.com/gamification-study/4-experience-phases-gamification-4-endgame/)
+
 ## The discovery phase of astronomy hackathons
-* Problems to be solved:
+* Problems to be solved (based on [the survey for a previous astronomy hackathon hold in Taiwan](https://coggle.it/diagram/XO_ETNAsCBx_Q-6r/t/20190525%E8%88%88%E5%A4%A7%E9%99%84%E4%B8%AD%E5%A4%A9%E6%96%87%E9%BB%91%E5%AE%A2%E6%9D%BE%E5%8F%83%E8%88%87%E8%80%85%E5%95%8F%E5%8D%B7%E5%9B%9E%E9%A5%8B/5de4484f926ef6a3842e2b0bbbfef87af42cb01b847269970d1559ca345cd6e5)):
 
 
 ## The onboarding phase of astronomy hackathons
-* Problems to be solved:
+* Problems to be solved (based on [the survey for a previous astronomy hackathon hold in Taiwan](https://coggle.it/diagram/XO_ETNAsCBx_Q-6r/t/20190525%E8%88%88%E5%A4%A7%E9%99%84%E4%B8%AD%E5%A4%A9%E6%96%87%E9%BB%91%E5%AE%A2%E6%9D%BE%E5%8F%83%E8%88%87%E8%80%85%E5%95%8F%E5%8D%B7%E5%9B%9E%E9%A5%8B/5de4484f926ef6a3842e2b0bbbfef87af42cb01b847269970d1559ca345cd6e5)):
 
 
 
 ## The scaffolding phase of astronomy hackathons
-* Problems to be solved:
+* Problems to be solved (based on [the survey for a previous astronomy hackathon hold in Taiwan](https://coggle.it/diagram/XO_ETNAsCBx_Q-6r/t/20190525%E8%88%88%E5%A4%A7%E9%99%84%E4%B8%AD%E5%A4%A9%E6%96%87%E9%BB%91%E5%AE%A2%E6%9D%BE%E5%8F%83%E8%88%87%E8%80%85%E5%95%8F%E5%8D%B7%E5%9B%9E%E9%A5%8B/5de4484f926ef6a3842e2b0bbbfef87af42cb01b847269970d1559ca345cd6e5)):
 
 
 ## The endgame phase of astronomy hackathons
-* Problems to be solved:
+* Problems to be solved (based on [the survey for a previous astronomy hackathon hold in Taiwan](https://coggle.it/diagram/XO_ETNAsCBx_Q-6r/t/20190525%E8%88%88%E5%A4%A7%E9%99%84%E4%B8%AD%E5%A4%A9%E6%96%87%E9%BB%91%E5%AE%A2%E6%9D%BE%E5%8F%83%E8%88%87%E8%80%85%E5%95%8F%E5%8D%B7%E5%9B%9E%E9%A5%8B/5de4484f926ef6a3842e2b0bbbfef87af42cb01b847269970d1559ca345cd6e5)):

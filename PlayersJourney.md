@@ -6,6 +6,14 @@
 * [4 Experience Phases in Gamification (#4): The Endgame](https://yukaichou.com/gamification-study/4-experience-phases-gamification-4-endgame/)
 
 
+## Goals of the game
+Why do I want to hold astronomy hackathons for high school students/the general public?
+* Participants can understand:
+  * what is open source?
+  * what is open science/astronomy? 
+  * how astronomy research, education, outreach and citation science can benefit from open astronomy?
+* Regardless of their background, all participants can make contributions to astronmy research, education, outreach by collaborating during hackathons (general definition of citizen astronomy?)
+
 ## The discovery phase of astronomy hackathons
 * Problems to be solved:
 

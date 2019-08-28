@@ -29,7 +29,11 @@ Why do I want to hold astronomy hackathons for high school students/the general 
 
 ## The onboarding phase of astronomy hackathons
 * Problems to be solved (based on [the survey for a previous astronomy hackathon hold in Taiwan](https://coggle.it/diagram/XO_ETNAsCBx_Q-6r/t/20190525%E8%88%88%E5%A4%A7%E9%99%84%E4%B8%AD%E5%A4%A9%E6%96%87%E9%BB%91%E5%AE%A2%E6%9D%BE%E5%8F%83%E8%88%87%E8%80%85%E5%95%8F%E5%8D%B7%E5%9B%9E%E9%A5%8B/5de4484f926ef6a3842e2b0bbbfef87af42cb01b847269970d1559ca345cd6e5)):
+  * Because of lack of hackathon experience, participants have difficulties to propose hack ideas
 
+* Ideas for solving the problems:
+  * Design a pre-hacking activity to give examples of hack ideas.
+    * [An activity template](./OnboardingPhase_PreHackingActivity.md) ([HackMD slide mode](https://hackmd.io/@astrobackhacker/By8aMzNSS))
 
 
 ## The scaffolding phase of astronomy hackathons

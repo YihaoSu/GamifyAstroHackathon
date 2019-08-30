@@ -6,3 +6,4 @@ This is my hack during the [Astro Hack Week 2019](http://astrohackweek.org/2019/
 
 * [Hack Ideas](https://github.com/YihaoSu/GamifyAstronomyHackathon/blob/master/HackIdeas.md)
 * [Player’s Journey Design](https://github.com/YihaoSu/GamifyAstronomyHackathon/blob/master/PlayersJourney.md)
+* [Hacking Central Map](./HackingCentralTemplates) ([Demo in HackMD](https://hackmd.io/@astrobackhacker/BJ8r6ULSr))
